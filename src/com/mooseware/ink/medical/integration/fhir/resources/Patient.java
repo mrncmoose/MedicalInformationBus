@@ -20,7 +20,7 @@ import com.mooseware.ink.medical.integration.types.Resource;
 
 /**
  * Manage patient FHIR resources performing operations such as GET/PUT/POST, etc.
- * @author moose
+ * @author Fred T. Dunaway
  *
  */
 public class Patient {
